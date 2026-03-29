@@ -1209,7 +1209,7 @@ export function Home() {
       </section>
 
       {/* Category Showcase - After CTA */}
-      <CategoryShowcase />
+      {/* <CategoryShowcase /> */}
     </div>
   );
 }
