@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import profileImage from 'figma:asset/542ae5d2665080871b73401b02cd9ca4e734081f.png';
+import profileImage from '@/assets/profile.png';
 import { ProfileImageFrame } from '../components/ProfileImageFrame';
 import { CategoryShowcase } from '../components/CategoryShowcase';
 

@@ -1,5 +1,5 @@
 import { useEffect, useState, useRef, useCallback } from 'react';
-import cursorHandIcon from 'figma:asset/26789dbb6440a934eabeb5ce7c2fd85c0e220578.png';
+import cursorHandIcon from '@/assets/cursor-hand.png';
 
 export function CustomCursor() {
   const [position, setPosition] = useState({ x: 0, y: 0 });
